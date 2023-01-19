@@ -204,7 +204,7 @@
         {
           "$$hashKey": "object:1922",
           "alias": "errors",
-          "color": "#c15c17"
+          "color": "red"
         }
       ],
       "spaceLength": 10,
@@ -266,7 +266,7 @@
     },
     {
       "aliasColors": {
-        "4xx": "red"
+        "4xx": "#c15c17"
       },
       "bars": true,
       "dashLength": 10,

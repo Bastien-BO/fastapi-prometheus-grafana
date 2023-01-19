@@ -158,7 +158,9 @@
       }
     },
     {
-      "aliasColors": {},
+      "aliasColors": {
+        "5xx": "red"
+      },
       "bars": false,
       "dashLength": 10,
       "dashes": false,

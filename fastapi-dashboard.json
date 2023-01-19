@@ -204,7 +204,7 @@
         {
           "$$hashKey": "object:1922",
           "alias": "errors",
-          "color": "red"
+          "color": "#fa0505"
         }
       ],
       "spaceLength": 10,

@@ -158,9 +158,7 @@
       }
     },
     {
-      "aliasColors": {
-        "5xx": "red"
-      },
+      "aliasColors": {},
       "bars": false,
       "dashLength": 10,
       "dashes": false,
@@ -206,7 +204,7 @@
         {
           "$$hashKey": "object:1922",
           "alias": "errors",
-          "color": "#fa0505"
+          "color": "red"
         }
       ],
       "spaceLength": 10,
